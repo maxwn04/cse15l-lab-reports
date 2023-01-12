@@ -1,4 +1,24 @@
 # HIIII
-**This is a fun class**  
-*I'm writing in markdown!*  
-There are cool math stuffs $\sqrt{\frac{k+1}{2}}$ Like this thing from my math homework yesterday!
+## With Markdowns there are fancy headers
+___
+**Fancy Bold Works**  
+*Elegant Italics!*  
+
+[Links and](http://a.com)	  
+![Images](http://url/a.png)	
+
+- very 
+- cool
+- lists
+
+1. and 
+2. more
+3. lists
+
+`even with fancy code`
+
+```
+or
+more
+code
+```
