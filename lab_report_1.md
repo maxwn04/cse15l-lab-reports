@@ -1,7 +1,7 @@
-# Lab Report 1
-How to remotely login to CSE basement servers through VSCode.**  
+# Lab Report 1 
+**How to remotely login to CSE basement servers through VSCode.**  
 
-**Setting the password** 
+## Setting the password 
 1. Go to the [UCSD course account lookup tool](https://sdacs.ucsd.edu/~icc/index.php)   
     ![Course account lookup image](\cse15l-lab-reports\img\lookup.png)
 2. Enter your username and PID
@@ -11,7 +11,7 @@ How to remotely login to CSE basement servers through VSCode.**
 5. Enter your new password and finish resetting your password.  
     ![password reset](\cse15l-lab-reports\img\password.PNG)  
     
-**Downloading VSCode**
+## Downloading VSCode
 1. Go to [VSCode download page](https://code.visualstudio.com/download)  
     ![vscode download](\cse15l-lab-reports\img\download2.PNG)  
 2. Select the right download option for your computer to download the installation file
@@ -19,7 +19,7 @@ How to remotely login to CSE basement servers through VSCode.**
 4. Open VsCode and select "Run Terminal" in the Terminal menu of the top toolbar.  
     ![terminal](\cse15l-lab-reports\img\select_terminal.png)  
     
-**Accessing the Server**
+## Accessing the Server
 1. In your terminal enter `$ ssh <course_account_name>@ieng6.ucsd.edu`  
    If you've never logged in before, you should see something like 
     ```
