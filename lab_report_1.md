@@ -9,11 +9,11 @@ How to remotely login to CSE basement servers through VSCode.**
     ![course account](\cse15l-lab-reports\img\course_account.png)
 4. Select the change your password option
 5. Enter your new password and finish resetting your password.  
-    ![password reset](\cse15l-lab-reports\img\password.png)  
+    ![password reset](\cse15l-lab-reports\img\password.PNG)  
     
 **Downloading VSCode**
 1. Go to [VSCode download page](https://code.visualstudio.com/download)  
-    ![vscode download](\cse15l-lab-reports\img\download2.png)  
+    ![vscode download](\cse15l-lab-reports\img\download2.PNG)  
 2. Select the right download option for your computer to download the installation file
 3. Click on the exe file and follow all installation instructions.
 4. Open VsCode and select "Run Terminal" in the Terminal menu of the top toolbar.  
