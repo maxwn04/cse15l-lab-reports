@@ -3,26 +3,33 @@
 
 ## Setting the password 
 1. Go to the [UCSD course account lookup tool](https://sdacs.ucsd.edu/~icc/index.php)   
-    ![Course account lookup image](\cse15l-lab-reports\img\lookup.png)
-2. Enter your username and PID
-3. Select your course account, this should be the one that starts with a cse15lwi23  
-    ![course account](\cse15l-lab-reports\img\course_account.png)
-4. Select the change your password option
-5. Enter your new password and finish resetting your password.  
-    ![password reset](\cse15l-lab-reports\img\password.PNG)  
+    ![Course account lookup image](\cse15l-lab-reports\img\lookup.png)    
+2. Enter your username and PID  
+3. Select your course account, this should be the one that starts with a cse15lwi23    
+    ![course account](\cse15l-lab-reports\img\course_account.png)    
+4. Select the change your password option    
+5. Enter your new password and finish resetting your password.    
+    ![password reset](\cse15l-lab-reports\img\password.PNG)    
     
 ## Downloading VSCode
-1. Go to [VSCode download page](https://code.visualstudio.com/download)  
-    ![vscode download](\cse15l-lab-reports\img\download2.PNG)  
-2. Select the right download option for your computer to download the installation file
-3. Click on the exe file and follow all installation instructions.
-4. Open VsCode and select "Run Terminal" in the Terminal menu of the top toolbar.  
-    ![terminal](\cse15l-lab-reports\img\select_terminal.png)  
+1. Go to [VSCode download page](https://code.visualstudio.com/download)    
+    ![vscode download](\cse15l-lab-reports\img\download2.PNG)    
     
+2. Select the right download option for your computer to download the installation file    
+3. Click on the exe file and follow all installation instructions.    
+4. Open VsCode and select "Run Terminal" in the Terminal menu of the top toolbar.    
+    ![terminal](\cse15l-lab-reports\img\select_terminal.png)    
+    
+## Downloading git
+1. Go to [git downlad](https://git-scm.com/downloads)    
+    ![git download](\cse15l-lab-reports\img\git.PNG)    
+2. Select the right download option for your computer   
+3. Click on the executable and follow all installation instructions.
+
 ## Accessing the Server
-1. In your terminal enter `$ ssh <course_account_name>@ieng6.ucsd.edu`  
-   If you've never logged in before, you should see something like 
-    ```
+1. In your terminal enter `$ ssh <course_account_name>@ieng6.ucsd.edu`    
+   If you've never logged in before, you should see something like     
+    ```git bash
     -> ssh cs15lwi23zz@ieng6.ucsd.edu 
     The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established. 
     RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec. 
@@ -47,3 +54,8 @@
     Sun Jan 02, 2022 11:28pm - Prepping cs15lwi23
     ```
     Congrats, you've successfully logged in to the server.
+    
+## Run some commands
+    Now you can try to run some commands like `cd`, `ls`, `cat`, `mkdir`, `cp`
+    ![commands](\cse15l-lab-reports\img\commands.PNG)    
+
