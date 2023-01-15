@@ -57,5 +57,5 @@
     
 ## Run some commands
     Now you can try to run some commands like `cd`, `ls`, `cat`, `mkdir`, `cp`
-    ![commands](\cse15l-lab-reports\img\commands.PNG)    
+    ![commands](\cse15l-lab-reports\img\command.PNG)    
 
