@@ -36,7 +36,7 @@
     Are you sure you want to continue connecting (yes/no/[fingerprint])? 
     ```
 2. Enter yes, then your password. Note that your password will not be visible as you're typing it.
-3. If you see 
+3. If you see  
     ```
     # Now on remote server
     Last login: Sun Jan  2 14:03:05 2022 from 107-217-10-235.lightspeed.sndgca.sbcglobal.net
@@ -56,6 +56,12 @@
     Congrats, you've successfully logged in to the server.
     
 ## Run some commands
-Now you can try to run some commands like `cd ls cat mkdir cp`
+Now you can try to run some of these commands:     
+`ls` - shows the files in the current working directory  
+`cd <directory>` - changes the working directory  
+`cat <filepath>` - prints the text of a file  
+`mkdir <directories>` - makes a directory  
+`cp` - copies a file to another file or directory  
+  
 ![commands](\cse15l-lab-reports\img\command.PNG)    
 
