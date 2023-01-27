@@ -1,4 +1,5 @@
-## Lab Report 3
+## Lab Report 2
+
 **Part 1**
 ![code](https://user-images.githubusercontent.com/73797155/215192527-47bbbadf-0aa6-4c56-a581-9e925878e77d.PNG)  
 
