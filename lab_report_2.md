@@ -72,12 +72,7 @@ static double averageWithoutLowest(double[] arr) {
   return (sum-lowest) / (arr.length - 1);
 }
 ```
-The failing test case was {1, 1, 2, 3). The average without lowest was calculated as 1.667 when it should have been 2.  
-The problem was that the lowest value was not unique, so it removed all of the lowest values when calculating the   
-average, when it should only remove 1 of them. To fix this, I changed the code so that it takes the sum of all the 
-numbers, then subtracted out the lowest value, instead of omitting all of the lowest values. This fixes the issue  
-that the lowest value in the array is not unique, it subtracts out all of the lowest values. Now, only 1 instance  
-of the lowest value is subtracted, which is the intended behavior.
+The failing test case was {1, 1, 2, 3). The average without lowest was calculated as 1.667 when it should have been 2. The problem was that the lowest value was not unique, so it removed all of the lowest values when calculating the average, when it should only remove 1 of them. To fix this, I changed the code so that it takes the sum of all the numbers, then subtracted out the lowest value, instead of omitting all of the lowest values. This fixes the issue that the lowest value in the array is not unique, it subtracts out all of the lowest values. Now, only 1 instance of the lowest value is subtracted, which is the intended behavior.
   
 **Part 3**
 I learned about how to create and execute different JUnit tests, as well as the terminology necessary to accurately describe any issues I am facing.
