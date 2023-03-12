@@ -1,11 +1,22 @@
 ## Lab Report 4
 
-4. Log into ieng6  
+### 1. Delete any existing forks of the repository you have on your account  
+![image](https://user-images.githubusercontent.com/73797155/224521911-b444f2d1-ed88-49b5-a58e-a8c32fc891c7.png)  
+ 
+
+### 2. Fork the repository  
+![image](https://user-images.githubusercontent.com/73797155/224521964-22e9aaad-a33a-488f-b223-8bc0b82840b9.png)  
+
+### 3. Start the timer  
+![image](https://user-images.githubusercontent.com/73797155/224521978-b9cc0fc5-e9f9-4958-999d-4e68f759b137.png)
+
+
+### 4. Log into ieng6  
 ![image](https://user-images.githubusercontent.com/73797155/221445942-3febf44d-1ced-461b-bd56-d2c98a5077a0.png)  
 Keys pressed: `<up><enter>`  
 The `ssh cs15lwi23aqx@ieng6.ucsd.edu` command was 1 up in the history, so I simply accessed it using up arrow.
 
-5-7 Clone your fork of the repository from your Github account, Run the tests, demonstrating that they fail and Edit the code  
+### 5-7 Clone your fork of the repository from your Github account, Run the tests, demonstrating that they fail and Edit the code  
 ![image](https://user-images.githubusercontent.com/73797155/221446523-4fed5467-1e44-460a-9814-377738f14d4c.png)  
 ![image](https://user-images.githubusercontent.com/73797155/221446714-23ee7ccc-70e2-4013-b431-0542a9bd507e.png)  
 
@@ -15,7 +26,7 @@ command was 4 up in the history, so I accessed it using the up arrow. This comma
 switching into the folder and running the junit compile and run commands. Then using nano to edit the file. I used the ctrl+shft+- shortcut to skip to line 43, 
 then used the right arrow to get to the error, and fixed it by deleting the 2 and replacing it with a 1.  
 
-8-9 Run the tests, demonstrating that they now succeed and Commit and push the resulting change to your Github account  
+### 8-9 Run the tests, demonstrating that they now succeed and Commit and push the resulting change to your Github account  
 ![image](https://user-images.githubusercontent.com/73797155/221446951-510ae494-6b0a-4faa-82b3-07f97ab54e69.png)  
 
 Keys pressed: `<up><up><up><up><enter>`  
