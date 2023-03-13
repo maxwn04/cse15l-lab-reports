@@ -45,7 +45,7 @@ Time: 0.016
 OK (2 tests)
 
 [main 4973aa1] edit file
- Committer: Max Weng <cs15lwi23afx@ieng6-203.ucsd.edu>
+ Committer: Max Weng <cs15lwi23aqx@ieng6-203.ucsd.edu>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
 You can suppress this message by setting them explicitly. Run the
