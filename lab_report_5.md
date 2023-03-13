@@ -16,8 +16,8 @@ After creating the script copy the command to the server using `scp`
 Then ssh to the server  
 ![image](https://user-images.githubusercontent.com/73797155/224580126-4bb9d215-bf41-412d-8e2b-46233d77a083.png)  
 
-And run the bash script which gives the output below
-```
+And run the bash script using `bash fast.sh` which gives the output below
+``` git bash
 Cloning into 'lab7'...
 JUnit version 4.13.2
 ..E
